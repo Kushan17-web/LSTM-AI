@@ -1,0 +1,12 @@
+
+quiz_score,assignment_score,attendance,study_time,completion_rate,average_quiz_time,consistency,improvement,category
+95,92,98,4.5,100,8,95,92,Fast Learner
+90,88,95,4.2,96,9,92,90,Fast Learner
+82,80,90,3.8,88,12,82,78,Average Learner
+75,70,84,3.0,80,15,75,70,Average Learner
+68,60,75,2.5,70,18,60,58,Needs Practice
+55,50,65,2.0,60,22,50,48,Needs Practice
+40,38,52,1.2,45,30,35,30,At Risk
+25,20,40,0.8,30,38,20,15,At Risk
+98,97,99,5.0,100,7,98,96,Fast Learner
+85,84,92,4.0,90,10,85,82,Average Learner
